@@ -4,24 +4,26 @@ public class HelloWorld {
 	
 		public static void main(String[] args) {
 			System.out.println("Hello World");
-			System.out.println("Áö±İ git ¼ö¾÷ Áß");
-			System.out.println("ÁıÁß ÇÏ¼¼¿ä ~~~ ´Ü ÇÑ¹ø¸¸ ¼ö¾÷ÇÕ´Ï´Ù.");
+			System.out.println("ì§€ê¸ˆ git ìˆ˜ì—… ì¤‘");
+			System.out.println("ì§‘ì¤‘ í•˜ì„¸ìš” ~~~ ë‹¨ í•œë²ˆë§Œ ìˆ˜ì—…í•©ë‹ˆë‹¤.");
 			test();
 
-			System.out.println("master ÀÛ¾÷ Áß");
+			System.out.println("master ì‘ì—… ì¤‘");
 			System.out.println("module_B start");
 			
-			System.out.println("Ãæµ¹ ÇØ°á~~ ¤¾¤¾¤¾");
+			System.out.println("ì¶©ëŒ í•´ê²°~~ ã…ã…ã…");
 			
-			System.out.println("github ¿¬µ¿ ½ÃÀÛ");
+			System.out.println("github ì—°ë™ ì‹œì‘");
 			
-			System.out.println("·ÎÄÃ¿¡¼­ Ãß°¡");
-			System.out.println("remote¿¡¼­ ¼öÁ¤");
+			System.out.println("ë¡œì»¬ì—ì„œ ì¶”ê°€");
+			System.out.println("remoteì—ì„œ ìˆ˜ì •");
+			 
+			System.out.println("ì§‘ì—ì„œ ì‘ì—…");
 		}
 
 		private static void test() {
-			System.out.println("»õ¸ğµâ ÀÛ¾÷ ¿Ï¼º~~~!!!");
-			System.out.println("¸ÓÁö¿Ï·á~~~~~~");
+			System.out.println("ìƒˆëª¨ë“ˆ ì‘ì—… ì™„ì„±~~~!!!");
+			System.out.println("ë¨¸ì§€ì™„ë£Œ~~~~~~");
 			
 		}
 }
